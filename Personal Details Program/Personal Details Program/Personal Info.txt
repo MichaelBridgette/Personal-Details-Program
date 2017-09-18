@@ -1,0 +1,13 @@
+******************
+Name: Michael Bridgette
+Age: 20
+Gender: male
+Income: 0
+Country: Ireland
+******************
+Name: Fitzburger
+Age: 12
+Gender: female
+Income: -5
+Country: london
+******************
